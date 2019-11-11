@@ -1,4 +1,4 @@
 # CascadiaJS2019
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0d134429-98dd-4127-8653-27242d321100/deploy-status)](https://app.netlify.com/sites/gatsby-theme-slideshow/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e71c86f5-0d65-4e4e-a4d0-51b6bf323ad2/deploy-status)](https://app.netlify.com/sites/cjs19-slides/deploys)
 
 Built with Gatsby and 👽
